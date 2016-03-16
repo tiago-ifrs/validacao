@@ -1,8 +1,8 @@
-ImplementaÁ„o do cÛdigo:
+Implementa√ß√£o do c√≥digo:
 Problemas:
-	- tags "name" e "message" necess·rias para o cÛdigo do chat j· estavam sendo usadas em um formul·rio,
-	as tags do formul·rio foram alteradas
-InstalaÁ„o:
-	- Para executar no xampp, a extens„o sockets do php deve ser descomentada do arquivo php.ini
-	- Bloqueio das portas altas nas estaÁıes do laboratÛrio, n„o permite que o chat seja acessado a partir de outro IP
+	- tags "name" e "message" necess√°rias para o c√≥digo do chat j√° estavam sendo usadas em um formul√°rio,
+	as tags do formul√°rio foram alteradas
+Instala√ß√£o:
+	- Para executar no xampp, a extens√£o sockets do php deve ser descomentada do arquivo php.ini
+	- Bloqueio das portas altas nas esta√ß√µes do laborat√≥rio, n√£o permite que o chat seja acessado a partir de outro IP
 	
