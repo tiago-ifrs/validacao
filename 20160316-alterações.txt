@@ -1,0 +1,8 @@
+Implementação do código:
+Problemas:
+	- tags "name" e "message" necessárias para o código do chat já estavam sendo usadas em um formulário,
+	as tags do formulário foram alteradas
+Instalação:
+	- Para executar no xampp, a extensão sockets do php deve ser descomentada do arquivo php.ini
+	- Bloqueio das portas altas nas estações do laboratório, não permite que o chat seja acessado a partir de outro IP
+	
